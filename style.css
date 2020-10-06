@@ -1,0 +1,15 @@
+.wrapper{
+    max-width: 190px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+}
+button{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+}
